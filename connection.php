@@ -1,7 +1,7 @@
 <?php
-        $dbHost = 'localhost';
-        $dbUser = 'root';
+        $dbHost = 'Host';
+        $dbUser = 'UseName';
         $dbPass = '';
-        $dbName = 'pawfinder';
+        $dbName = 'DataBase Name';
         $connection = mysqli_connect($dbHost, $dbUser, $dbPass, $dbName);
 ?>
