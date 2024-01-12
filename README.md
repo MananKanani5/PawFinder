@@ -8,7 +8,7 @@ Live Preview:
 [www.manankanani.in/pawfinder](https://www.manankanani.in/pawfinder)
 
 
-# Abstract
+# About PawFinder 
 
 PawFinder is a compassionate and user-friendly responsive web app dedicated to addressing the heart-wrenching issue of lost pets. At the heart of PawFinder is a contemporary web development stack, combining the power of HTML, CSS, and JavaScript to craft an interface. In the backend, I've used PHP to ensure the secure handling of data, and I rely on the reliability of a MySQL database to safeguard the precious information collected. The result is a web app that offers a seamless and optimized viewing experience on a wide range of devices, including desktop computers, tablets, and mobile phones. Whether you're searching for a lost pet from the comfort of your home or on the go, PawFinder is there to assist.
 
