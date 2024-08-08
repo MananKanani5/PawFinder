@@ -1,6 +1,7 @@
 # PawFinder
 PawFinder is a web app that helps lost pets find their way back home.
-Note: The information on this website is generated using ChatGPT as part of a college project. This site is not currently live.
+
+**Note: The information on this website is generated using ChatGPT as part of a college project. This site is not currently live.**
 
 [PawFinder Brand Book](https://github.com/MananKanani5/PawFinder/blob/main/PawFinder%20BrandBook.pdf)
 
