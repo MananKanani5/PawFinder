@@ -6,7 +6,7 @@ PawFinder is a web app that helps lost pets find their way back home.
 [PawFinder Brand Book](https://github.com/MananKanani5/PawFinder/blob/main/PawFinder%20BrandBook.pdf)
 
 Live Preview:
-[www.manankanani.in/pawfinder](https://www.manankanani.in/pawfinder)
+[pawfinder](https://pawfinder.free.nf/)
 
 https://github.com/MananKanani5/PawFinder/assets/54730771/b07b1c72-83e2-4a03-a743-321a46c0d268
 
